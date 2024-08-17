@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**ananemyro/ananemyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ana, a third-year student in Software Engineering student at McGill University. With hands-on experience as a Product Management and Developer Intern, I’ve contributed to projects that span across web development, data analytics, and automation.
 
-Here are some ideas to get you started:
+#### My Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Product Management Intern @ **Intrado Life & Safety**: I developed and deployed interactive Power BI reports, implemented automation solutions using Microsoft Power Automate, and optimized large datasets for performance.
+* Developer Intern @ **Bell NTS**: I created Python-based features with Django REST Framework, integrated SQL with PostgreSQL, and employed Elasticsearch for insightful data visualizations.
+
+My skills include Python, Java, C, Bash, SQL, Django, Git, Docker, and Power BI. I thrive on solving complex problems and love contributing to projects that make a difference.
+
+Let's keep in touch :)  
+[LinkedIn](https://www.linkedin.com/in/anemyro/)

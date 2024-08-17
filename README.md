@@ -4,9 +4,6 @@ I'm Ana, a third-year student in Software Engineering student at McGill Universi
 
 My skills include Python, Java, C, Bash, SQL, Django, Git, Docker, and Power BI. I thrive on solving complex problems and love contributing to projects that make a difference.
 
-Let's keep in touch :)  
-[LinkedIn](https://www.linkedin.com/in/anemyro/)
-
 ## My Journey
 
 * Product Management Intern @ **Intrado Life & Safety**: I developed and deployed interactive Power BI reports, implemented automation solutions using Microsoft Power Automate, and optimized large datasets for performance.
